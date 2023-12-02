@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "primary": "#E20030",
+    "secondary": "#2A2B52",
+    "black": "#23243E",
+    "grey": "#535353",
+    "lightgrey": "#B4B4B4",
+    "white": "#FFFDFA",
+    "error": "#FF0000",
+    "success": ""
+  },
+  "size": {
+    "xs": 10,
+    "sm": 12,
+    "md": 16,
+    "lg":  18,
+    "xl": 20,
+    "2xl": 24
+  }
+}
